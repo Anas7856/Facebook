@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    height: 100vh;
+    width: 100%;
+    background-color: #F0F2F5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.parent{
+    height: 330px;
+    width: 80%;
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.c1{
+    height: 330px;
+    width: 400px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 7px  rgb(161, 160, 160);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  background-color: white
+  ;
+    flex-direction: column;
+   
+}
+.c2{
+    height: 300px;
+    margin-right: 15px;
+   display: flex;
+   align-items: left;
+   flex-direction: column;
+   justify-content: left;
+   
+    width: 570px;
+    
+}
+.fb{
+    height: 90px;
+    margin-left: -140px;
+    margin-top: 40px;
+    width: 500px;
+}
+.c2 h1{
+    font-size: 30px;
+   
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box{
+    height: 35px;
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid rgb(236, 228, 228);
+    text-align: left;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #90949c;
+}
+.box1{
+    height: 35px;
+    width: 90%;
+    border-radius: 5px;
+    border: 1px solid rgb(236, 228, 228);
+    text-align: left;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #90949c;
+    margin-top: 10px;
+}
+.box3{
+    height:45px;
+    width: 94%;
+    border-radius: 5px;
+    margin-top: 12px;
+    background-color: #0866FF;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+    border: #0866FF;
+    font-size: 20px;
+}
+.c1 p{
+    color: #3766FF;
+    margin-top:12px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.line{
+    width: 85%;
+    margin-top: 20px;
+    height: 0.3px;
+    background-color: #DADDE1;
+}
+.box4{
+    height: 50px;
+    width: 180px;
+    background-color: #42b72a;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 15px;
+    border-radius: 8px;
+    margin-top: 20px;
+    border: #42b72a;
+}
